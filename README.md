@@ -42,6 +42,15 @@ Once we are satisfied with the performance of the model, we can deploy it to pro
 
   
 
-<img src = "http://www.phytoimages.siu.edu/users/Cusman1/5_30_14/DSCF0206Irissetosa.jpg" width="200" height="200">
+<img src = "http://www.walliscreekwatergarden.com.au/wp-content/uploads/2013/09/irisvirg3.jpg" width="200" height="200">
+
+
+
+- Iris versicolor
+
+
+<img src = "http://www.walliscreekwatergarden.com.au/wp-content/uploads/2013/09/irisvirg3.jpg" width="200" height="200">
+
+
 
                                                                                   
