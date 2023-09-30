@@ -28,7 +28,7 @@ The Iris dataset is a classic machine learning dataset that contains data on 150
 Once we are satisfied with the performance of the model, we can deploy it to production. This means making the model available to users so that they can use it to classify new Iris flowers.
 
 ## Pictures of Iris species
-- Here are pictures of the different Iris species:
+### Here are pictures of the different Iris species:
 
 - Iris setosa
 
@@ -50,6 +50,9 @@ Once we are satisfied with the performance of the model, we can deploy it to pro
 
 
 <img src = "https://i1.wp.com/bhwp.org/wp-content/uploads/jun-blue-flag-iris-mab.jpg?ssl=1" width="200" height="200">
+
+# Conclusion
+- This project will provide you with a good understanding of how to use machine learning algorithms to classify data. You will also learn how to visualize data and how to deploy a machine learning model to production.
 
 
 
