@@ -27,10 +27,8 @@ The Iris dataset is a classic machine learning dataset that contains data on 150
 ## Model deployment
 Once we are satisfied with the performance of the model, we can deploy it to production. This means making the model available to users so that they can use it to classify new Iris flowers.
 
-![Iris setosa](https://example.com/images/iris_setosa.jpg)
-![Iris versicolor](https://example.com/images/iris_versicolor.jpg)
-![Iris virginica](https://example.com/images/iris_virginica.jpg)
 
 
 
+![DSCF0206Irissetosa](https://github.com/sanal8086/Iris_Flower_Species_Classification-/assets/126592002/aa217414-e4af-4f12-92e1-1feedcca85c5)
 
