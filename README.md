@@ -30,5 +30,5 @@ Once we are satisfied with the performance of the model, we can deploy it to pro
 
 
 
-<img src = "C:\Users\sanal\Downloads\DSCF0206Irissetosa.jpg" width="30" height="30">
+<img src = "C:\Users\sanal\Downloads\DSCF0206Irissetosa.jpg" width="100" height="100">
 
