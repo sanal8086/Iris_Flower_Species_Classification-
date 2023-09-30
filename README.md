@@ -30,5 +30,6 @@ Once we are satisfied with the performance of the model, we can deploy it to pro
 
 
 
-<img src = "C:\Users\sanal\Downloads\DSCF0206Irissetosa.jpg" width="100" height="100">
+<img src = "http://www.phytoimages.siu.edu/users/Cusman1/5_30_14/DSCF0206Irissetosa.jpg" width="100" height="100">
+
 
