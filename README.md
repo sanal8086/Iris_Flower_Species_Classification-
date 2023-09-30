@@ -17,9 +17,10 @@ The Iris dataset is a classic machine learning dataset that contains data on 150
 - Logistic regression
 - Support vector machines
 - Decision trees
-- Random forests
+- Random forest
 - Naive Bayes
 - K-nearest neighbors
+- AdaBoost 
   
 ## Model evaluation
 - We will evaluate the performance of each model on a held-out test set. This will give us an idea of how well the model will generalize to new data.
