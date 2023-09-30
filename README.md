@@ -30,5 +30,5 @@ Once we are satisfied with the performance of the model, we can deploy it to pro
 
 
 
-![DSCF0206Irissetosa](https://github.com/sanal8086/Iris_Flower_Species_Classification-/assets/126592002/aa217414-e4af-4f12-92e1-1feedcca85c5)
+<img src = "C:\Users\sanal\Downloads\DSCF0206Irissetosa.jpg" width="30" height="30">
 
